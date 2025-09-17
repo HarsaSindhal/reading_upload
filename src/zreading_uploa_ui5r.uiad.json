@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Reading Uploader",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Reading Uploader"
+  },
+  "ui5AppDetails": {
+    "appId": "zreadinguploader"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_B9D44EF4C0D4E72A08233988CC5CA5798B874485_TM",
+    "semanticObject": "zreading_uploader",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_B9D44EF4C0D4E72A08233988CC5CA5798B874485_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Reading Uploader",
+        "subtitle": "PM"
+      }
+    }
+  ]
+}
